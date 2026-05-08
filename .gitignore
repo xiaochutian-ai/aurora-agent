@@ -11,4 +11,4 @@ wheels/
 
 # Local worktrees
 .worktrees/
-.langgraph-api/
+.langgraph_api/
