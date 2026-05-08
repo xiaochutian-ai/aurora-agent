@@ -1,0 +1,9 @@
+{
+  "$schema": "https://langgra.ph/schema.json",
+  "python_version": "3.13",
+  "dependencies": ["."],
+  "env": ".env",
+  "graphs": {
+    "general_agent": "src.agents.general_agent:create_general_agent"
+  }
+}
